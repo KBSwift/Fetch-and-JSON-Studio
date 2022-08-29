@@ -22,7 +22,7 @@ window.onload = function (event) {
             }
 
             const numberOfAstronauts = document.getElementById("numberOfAstronauts");
-            numberOfAstronauts.innerText = `Number of astronauts: ${astronauts.lengthgi}`;
+            numberOfAstronauts.innerText = `Number of astronauts: ${astronauts.length}`;
         });
     });
 };
