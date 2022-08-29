@@ -14,3 +14,13 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+.active {
+    color: green;
+    font-weight: bold;
+}
+
+.inactive {
+    color: firebrick;
+    font-weight: bold;
+}
